@@ -1,5 +1,6 @@
 hello world
 .
 .
+we love hello world
 .
 goodbye world
